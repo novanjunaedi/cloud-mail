@@ -8,7 +8,7 @@ enabled = true
 
 [[d1_databases]]
 binding = "db"			#d1数据库绑定名默认不可修改
-database_name = "db"		#d1数据库名字
+database_name = "mail-db"		#d1数据库名字
 database_id = "80e649f9-5ab8-4cc7-bae1-94c886564dbe"		#d1数据库id
 
 [[kv_namespaces]]
